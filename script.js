@@ -1,9 +1,9 @@
-// Cotação de moedas do dia (13/10/25)
-const USD = 5.47
-const EUR = 6.32
-const GBP = 7.29
-const CHF = 6.80
-const CAD = 3.90
+// Cotação de moedas do dia (14/10/25)
+const USD = 5.50
+const EUR = 6.36
+const GBP = 7.31
+const CHF = 6.84
+const CAD = 3.91
 
 // Obtendo os elementos do formulário.
 const form = document.querySelector("form")
